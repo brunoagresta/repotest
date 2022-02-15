@@ -2,5 +2,22 @@ body
 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color:cornflowerblue
+    font-size: 16px;
+    margin: 1;
+    padding: 1;
+    color:rgb(66, 66, 70)
+    
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid rgb(247, 5, 5);
+    border-radius: 1em;
+    margin: 0 auto
+}
+#container h1
+{
+    font-size: 20px;
 }
